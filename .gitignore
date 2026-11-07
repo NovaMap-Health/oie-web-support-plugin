@@ -1,3 +1,7 @@
 target/
 yubikey-pkcs11.cfg
 certchain.pem
+certificate
+graphify-out
+.env
+.claude
